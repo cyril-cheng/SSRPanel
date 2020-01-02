@@ -25,7 +25,10 @@
         "rap2hpoutre/laravel-log-viewer": "^1.0",
         "riverslei/payment": "*",
         "spatie/laravel-permission": "^2.29",
-        "youzan/open-sdk": "^1.0"
+        "youzanyun/open-sdk": "^2.0.16",
+        "nesbot/carbon": "^2.28",
+        "tymon/jwt-auth":"^1.0.0-rc.5",
+        "exileed/telegram-bot-api-laravel": "dev-master"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
